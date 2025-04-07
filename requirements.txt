@@ -1,0 +1,4 @@
+Find the section titled "Static files".
+Click "Add a new mapping".
+In the "URL" field, enter your MEDIA_URL (the same value you have in your settings.py, usually /media/).
+In the "Directory" field, enter the absolute path to your MEDIA_ROOT directory on the PythonAnywhere server (the same value you have in your settings.py, e.g., /home/your_username/your_project/media/).
